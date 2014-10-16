@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/resources/icons" lang="English">
+        <file>resources/icons/48_addvideo.png</file>
+        <file>resources/icons/48_notready.png</file>
+        <file>resources/icons/48_ready.png</file>
+        <file>resources/icons/48_frameback.png</file>
+        <file>resources/icons/48_frameforward.png</file>
+        <file>resources/icons/48_pause.png</file>
+        <file>resources/icons/48_play.png</file>
+        <file>resources/icons/48_color_picker.png</file>
+        <file>resources/icons/32_color_picker.bmp</file>
+        <file>resources/icons/48_selector.png</file>
+    </qresource>
+</RCC>
